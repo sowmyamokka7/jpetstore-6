@@ -74,6 +74,8 @@ SAC,MSANC.,SAMC
 docker build . -t jpetstore
 docker run -p 8080:8080 jpetstore
 ```
+sowmya
+bhabi
 or with Docker Compose:
 ```
 docker compose up -d
